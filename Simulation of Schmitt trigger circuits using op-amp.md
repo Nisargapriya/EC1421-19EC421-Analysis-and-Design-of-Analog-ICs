@@ -3,7 +3,7 @@
 
 ## AIM:
 To Design and simulate the Schmitt trigger circuit using LT Spice
-
+ 
 ## SOFTWARE REQUIRED:
 LT-Spice
 
