@@ -9,7 +9,7 @@ To design and test the performance of differentiator circuits using Op-amp.
 
 ## THEORY:
 ## DIFFEERENTIATOR:
-The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differentiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
+The differentiator circuit performs the mathematical operation of differentiation; that is, the output waveform is the derivative of the input waveform. The differen tiator may be constructed from a basic inverting amplifier if an input resistor R1 is replaced by a capacitor C1 . The expression for the output voltage is given as,
 
 Vo = - Rf C1 ( dVi /dt )
 
