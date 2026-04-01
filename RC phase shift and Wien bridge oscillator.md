@@ -4,7 +4,7 @@
 ## AIM:
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-amp.
 
-## APPARATUS REQUIRED:
+## APPARATUS REQUIRED: 
 <img width="933" height="270" alt="image" src="https://github.com/user-attachments/assets/4f7bc183-2ed0-4591-b9aa-846127704eee" />
 
 ## THEORY:
