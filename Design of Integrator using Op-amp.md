@@ -9,7 +9,7 @@ To design and test the performance of integrator circuits using  Op-amp.
 <img width="811" height="206" alt="image" src="https://github.com/user-attachments/assets/fd527bf4-b7bf-4330-9b09-ce7ad607bdeb" />
 
 
-## THEORY:
+## THEORY: 
 
 INTEGRATOR 
  
