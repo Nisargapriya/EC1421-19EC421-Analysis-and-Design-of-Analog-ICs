@@ -3,7 +3,7 @@
 
 ## AIM:
 To design and test the performance of differentiator circuits using Op-amp.
-
+ 
 ## APPARATUS REQUIRED:
 <img width="984" height="273" alt="image" src="https://github.com/user-attachments/assets/2bfcbf8e-9b24-441c-a0c5-b04e0b1bee8d" />
 
