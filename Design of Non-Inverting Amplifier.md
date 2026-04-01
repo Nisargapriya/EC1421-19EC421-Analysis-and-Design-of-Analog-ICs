@@ -7,7 +7,7 @@ To design and construct a inverting, non- inverting and differential amplifiers.
 ## APPARATUS REQUIRED:
 <img width="959" height="257" alt="image" src="https://github.com/user-attachments/assets/018af22f-288a-4079-bbda-fdafa858db69" />
 
-## THEORY:
+## THEORY: 
 ## NON - INVERTING AMPLIFIER:
 If signal is applied to the non-inverting input terminal of op-amp without inverting the input signal such a circuit is called non-inverting amplifier. Here the output is feedback to the inverting input terminal. The phase shift of input signal does not occur in non-inverting terminal.
 The circuit closed-loop voltage gain is
