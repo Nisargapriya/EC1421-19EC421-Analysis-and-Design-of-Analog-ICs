@@ -11,7 +11,7 @@ LT-Spice
 2. New schematic window open.
 3. Pick and paste the required component from the library and draw the circuit diagram.
 4. Complete the connection.
-5. Save the file by giving file name.
+5. Save the file by giving file name. 
 6. Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtai
 
