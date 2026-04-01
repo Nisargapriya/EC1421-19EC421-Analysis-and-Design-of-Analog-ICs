@@ -8,7 +8,7 @@ a. Active low pass filter
 b. Active high pass filter 
 c. Active band pass filter
 
-## SOFTWARE REQUIRED:
+## SOFTWARE REQUIRED: 
 LT-Spice
 
 ## PROCEDURE:
