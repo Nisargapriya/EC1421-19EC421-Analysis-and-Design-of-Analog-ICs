@@ -12,7 +12,7 @@ c. Active band pass filter
 LT-Spice
 
 ## PROCEDURE:
-1. Double click on LT-Spice icon.
+1. Double click on LT-Spice icon. 
 2. New schematic window open.
 3. Pick and paste the required component from the library and draw the circuit diagram.
 4. Complete the connection.
