@@ -3,7 +3,7 @@
 
 ## AIM:
 
- To Design and simulate the Instrumentation amplifier circuit using LT-Spice.
+ To Design and simulate the Instrumentation amplifier circuit using LT-Spice. 
  
 ## SOFTWARE REQUIRED:
 LT-Spice
