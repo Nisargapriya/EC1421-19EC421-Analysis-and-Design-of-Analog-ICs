@@ -5,7 +5,7 @@
 
  To design and construct a  differential amplifier. 
 
- 
+  
 ## APPARATUS REQUIRED
 
 <img width="646" height="221" alt="image" src="https://github.com/user-attachments/assets/826c9635-6f51-44a2-82b1-4c4f6626c881" />
