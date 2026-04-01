@@ -12,7 +12,7 @@ IC741.
 
 
 ## THEORY
-## INSTRUMENTATION AMPLIFIER
+## INSTRUMENTATION AMPLIFIER 
 
 An instrumentation amplifier is the intermediate stage of a instrumentation system. The 
 signal source of the instrumentation amplifier is the output of the transducer. Many 
