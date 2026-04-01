@@ -16,7 +16,7 @@ This is the most widely used op-amp. Here, the output voltage Vo is feedback to 
 inverting input terminal through the Rf – R1 network. The negative sign in gain indicates the 
 phase shift of 180ο. 
 
-The circuit closed-loop voltage gain is Avcl= -RF / R1
+The circuit closed-loop voltage gain is Avcl= -RF / R1 
 
  ## DESIGN: 
 ~~~
